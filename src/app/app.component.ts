@@ -16,7 +16,7 @@ export class AppComponent  {
     );
     this.matIconRegistry.addSvgIcon(
       "unicorn",
-      this.domSanitizer.bypassSecurityTrustResourceUrl("/assets/button_svg/next.svg")
+      this.domSanitizer.bypassSecurityTrustResourceUrl("/assets/next.svg")
     );
   }
   
