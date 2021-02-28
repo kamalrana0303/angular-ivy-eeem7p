@@ -1,3 +1,11 @@
 p {
   font-family: Lato;
 }
+.container{
+  max-width:960px;
+}
+.bgd-img{
+  width:100%;
+  height:480px;
+  background: url("/assets/Thinking-of-getting-a-cat.png");
+}
